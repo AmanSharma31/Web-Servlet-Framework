@@ -8,7 +8,7 @@ By following the instruction you can implement the framework in your webapp.
 
 ### Installation
 
-Create a new webapp folder in your server, assume it to be `testing` for now and create a `WEB-INF` folder in *testing*.   
+Create a new folder in webapps folder in your server, assume it to be `testing` for now and create a `WEB-INF` folder in *testing*.   
 Create following essentials folders in *WEB-INF* -  
 * `classes` 
 * `lib`
