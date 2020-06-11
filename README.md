@@ -47,7 +47,7 @@ Now in *web.xml* file write the following lines
 
 ### Usage
 
-This framework is going to work only for AJAX applications. That means you can only exchange data through AJAX.  
+This framework is going to work only for AJAX applications. That means you can only exchange data through AJAX. You can only send request to *doPost* method.
 
 #### Beans
 
