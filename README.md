@@ -147,7 +147,10 @@ Now create the front-end and in the *url* variable write url in following manner
     
 *classPath* is the value of *value* member of Path annotation applied on the class, and *servicePath* is the value of *value* member of Path annotation applied on the service that you want to invoke on the server side.    
 
-Remember to check for the *Forward* header in the response before going for *exception*.
+Remember to check for the *Forward* header in the response before going for *exception*.     
 
+
+
+Thank you 
 
 
