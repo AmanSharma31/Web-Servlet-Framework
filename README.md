@@ -137,7 +137,7 @@ After that two pdfs will be created at the path given by you. These pdfs can wor
        
 While creating classes remember to import the below package, so that you can use the annotations.       
 
-	import com.thinking.machines.annotations.*;        
+	import com.thinking.machines.school.annotations.*;        
 	
 Now create your classes in your packages and apply *Path* annotation on those classes, write their methods and apply *Path* annotation and other annotations as your need.       
 
